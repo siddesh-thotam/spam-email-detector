@@ -28,14 +28,11 @@ requirements.txt - Dependencies
 
 ## ▶️ How To Run
 
-1. Create virtual environment
+1. Create virtual environment: (python -m venv venv)
 2. Install dependencies:
-
-pip install -r requirements.txt
-
-3. Run:
-
-python spam_detector.py
+(pip install -r requirements.txt)
+3. Run in Terminal or in command prompt:
+(python spam_detector.py)
 
 ## 🧠 Learning Outcomes
 
